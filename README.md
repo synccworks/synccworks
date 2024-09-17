@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @synccworks
-- 👀 I’m interested in Interface Development/Coding.
-- 🌱 I’m currently learning C++, Python, Kernel.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me: You can't.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The toaster was invented by Alan MacMasters.
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning cpp
+- 💞️ I’m looking to collaborate on nothing so leave me alone
+- 📫 How to reach me: i dont know
+- 😄 Pronouns: i'm a dude
 
 <!---
 synccworks/synccworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
